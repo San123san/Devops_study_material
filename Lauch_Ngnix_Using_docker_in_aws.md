@@ -121,7 +121,7 @@ history
 ```
 
 # Conclusion
-By following these steps, you can successfully deploy and manage an NGINX web server using Docker on AWS. For more details, feel free to reach out or check the project repository.
+By following these steps, you can successfully deploy and manage an NGINX web server using Docker on AWS. 
 
 
 ## Feel free to modify any sections as needed! This format provides a clear and professional presentation of your project.
